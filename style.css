@@ -1,0 +1,35 @@
+h1 {
+background-color: #33057c;
+height: 70px;
+line-height: 65px;
+color: aliceblue;
+font-size: 40px;
+text-align: center;
+}
+
+.container h2{
+    font-size: 20px;
+    background-color: #33057c;
+    height: 35px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center
+    
+}
+
+#iron {
+    background-color: dodgerblue;
+    width: 100%;
+    font-size: 22px;
+    list-style: none;
+    margin-left: 0%;
+}
+   
+body {
+    background-image: url(1366_2000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+    
